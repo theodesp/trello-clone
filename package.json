@@ -21,7 +21,7 @@
     "express": "^4.17.1",
     "graphql": "^15.1.0",
     "graphql-tag": "^2.10.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mongoose": "^5.9.18"
   }
 }
